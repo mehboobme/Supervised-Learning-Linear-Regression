@@ -3,7 +3,7 @@ Project completed as part of Great Learning's Postgraduate Program - Data Scienc
 Project delivered in October 2021
 Repository includes two files:**
 
-1. Jupyter notebook with Python code written for data analysis and model building
+1. ipynb file with Python code written for data analysis and model building
 2. CSV file includes data imported into notebook
    
 **Problem Statement**
